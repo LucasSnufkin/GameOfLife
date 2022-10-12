@@ -2,6 +2,8 @@
 
 Notre code du jeu de la vie !!!
 
+Made by GAUTIER Lucas, MONTAGNON Tom and BENQUET Matthias
+
 A lancer avec certains arguments, deux possibilités :
 
 	- ./jeu-de-la-vie AUTO [nom_sauvegarde].txt
